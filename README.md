@@ -1,37 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@Tednoob17
-42-AI /
-bootcamp_python
-Public
-
-Fork your own copy of 42-AI/bootcamp_python
-
-Code
-Issues 12
-Pull requests 3
-Actions
-Projects 1
-Wiki
-Security
-
-    Insights
-
-bootcamp_python/README.md
-@qfeuilla
-qfeuilla latek (#207)
-Latest commit de0f75f Feb 24, 2022
-History
-3 contributors
-@matboivin
-@maximechoulika
-@qfeuilla
-83 lines (61 sloc) 3.24 KB
 <p align="center">
   <img src="assets/42ai_logo.png" width="200" alt="42 AI Logo" />
 </p>
